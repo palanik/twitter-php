@@ -43,7 +43,7 @@
 		"method": "GET",
 		"path": "statuses/oembed.json"
 	},
-	"retweeters/ids" : {
+	"retweeters.ids" : {
 		"method": "GET",
 		"path": "statuses/retweeters/ids.json"
 	},
