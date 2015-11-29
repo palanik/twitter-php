@@ -1,4 +1,4 @@
-# Twitter REST API Wrapper 
+# Twitter REST API Wrapper 🐦
 
 Client interface for accessing [Twitter REST API](https://dev.twitter.com/rest/public).
 
@@ -205,5 +205,3 @@ $mySearches = $client->saved_searches->create(array("query" => "sandwiches"), NU
 ## License
 
   [MIT](LICENSE)
-
-
