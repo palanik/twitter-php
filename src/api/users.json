@@ -1,0 +1,22 @@
+{
+	"lookup" : {
+		"method": "GET",
+		"path": "users/lookup.json"
+	},
+	"show" : {
+		"method": "GET",
+		"path": "users/show.json"
+	},
+	"search" : {
+		"method": "GET",
+		"path": "users/search.json"
+	},
+	"profile_banner" : {
+		"method": "GET",
+		"path": "users/profile_banner.json"
+	},
+	"report_spam" : {
+		"method": "POST",
+		"path": "users/report_spam.json"
+	}
+}

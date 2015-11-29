@@ -1,0 +1,30 @@
+{
+	"no_retweets" : {
+		"method": "GET",
+		"path": "friendships/no_retweets/ids.json"
+	},
+	"incoming" : {
+		"method": "GET",
+		"path": "friendships/incoming.json"
+	},
+	"outgoing" : {
+		"method": "GET",
+		"path": "friendships/outgoing.json"
+	},
+	"create" : {
+		"method": "POST",
+		"path": "friendships/create.json"
+	},
+	"update" : {
+		"method": "POST",
+		"path": "friendships/update.json"
+	},
+	"show" : {
+		"method": "GET",
+		"path": "friendships/show.json"
+	},
+	"lookup" : {
+		"method": "GET",
+		"path": "friendships/lookup.json"
+	}
+}

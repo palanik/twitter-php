@@ -1,0 +1,38 @@
+{
+	"list" : {
+		"method": "GET",
+		"path": "lists/list.json"
+	},
+	"statuses" : {
+		"method": "GET",
+		"path": "lists/statuses.json"
+	},
+	"memberships" : {
+		"method": "GET",
+		"path": "lists/memberships.json"
+	},
+	"destroy" : {
+		"method": "POST",
+		"path": "lists/destroy.json"
+	},
+	"update" : {
+		"method": "POST",
+		"path": "lists/update.json"
+	},
+	"create" : {
+		"method": "POST",
+		"path": "lists/create.json"
+	},
+	"show" : {
+		"method": "GET",
+		"path": "lists/show.json"
+	},
+	"subscriptions" : {
+		"method": "GET",
+		"path": "lists/subscriptions.json"
+	},
+	"ownerships" : {
+		"method": "GET",
+		"path": "lists/ownerships.json"
+	}
+}

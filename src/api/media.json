@@ -1,0 +1,10 @@
+{
+	"upload" : {
+		"method": "POST",
+		"path": "media/upload.json"
+	},
+	"upload_chunked" : {
+		"method": "POST",
+		"path": "media/upload_chunked.json"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"get" : {
+		"method": "GET",
+		"path": "lists/members.json"
+	},
+	"destroy" : {
+		"method": "POST",
+		"path": "lists/members/destroy.json"
+	},
+	"create_all" : {
+		"method": "POST",
+		"path": "lists/members/create_all.json"
+	},
+	"show" : {
+		"method": "GET",
+		"path": "lists/members/show.json"
+	},
+	"create" : {
+		"method": "POST",
+		"path": "lists/members/create.json"
+	},
+	"destroy_all" : {
+		"method": "POST",
+		"path": "lists/members/destroy_all.json"
+	}	
+}

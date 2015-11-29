@@ -1,0 +1,14 @@
+{
+	"list" : {
+		"method": "GET",
+		"path": "favorites/list.json"
+	},
+	"create" : {
+		"method": "POST",
+		"path": "favorites/create.json"
+	},
+	"destroy" : {
+		"method": "POST",
+		"path": "favorites/destroy.json"
+	}
+}

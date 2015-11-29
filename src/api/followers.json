@@ -1,0 +1,10 @@
+{
+	"ids" : {
+		"method": "GET",
+		"path": "followers/ids.json"
+	},
+	"list" : {
+		"method": "GET",
+		"path": "followers/list.json"
+	}
+}

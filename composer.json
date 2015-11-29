@@ -1,0 +1,31 @@
+{
+    "name": "wrapi/twitter",
+    "description": "Wrapper for Twitter REST API",
+    "type": "library",
+    "keywords": [
+        "twitter",
+        "wrapi",
+        "REST",
+        "API",
+        "twitter-api",
+        "twitter wrapper",
+        "guzzle"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/wrapi/twitter-php",
+    "authors": [
+        {
+            "name": "wrapi"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "palanik/wrapi": "dev-master",
+        "guzzlehttp/oauth-subscriber": "^0.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "wrapi\\twitter\\": "src/"
+        }
+    }
+}

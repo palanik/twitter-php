@@ -1,0 +1,6 @@
+{
+	"rate_limit_status" : {
+		"method": "GET",
+		"path": "application/rate_limit_status.json"
+	}
+}
